@@ -1,0 +1,4 @@
+# SoundEventClassification using Raspberry Pie
+
+
+https://www.researchgate.net/publication/360877625_IOT_FOR_ELDERLY_CARE_DESIGN_AND_DEVELOPMENT_OF_SOUND_EVENT_RECOGNITION_SYSTEM_FOR_HEARING-_IMPAIRED_PEOPLE
